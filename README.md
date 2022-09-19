@@ -1,6 +1,6 @@
 # 👀 Find Me
 - [HackerOne](https://hackerone.com/wonda_tea_coffee?type=user)
-- [PentesterLab](https://pentesterlab.com/profile/274b9aec3385ebc5ccc9bb5ab4)
+- [PentesterLab](https://pentesterlab.com/profile/wonda_tea_coffee)
 
 # ✨ Certification
 - [Burp Suite Certified Practitioner](https://portswigger.net/web-security/e/c/acd37ec7ba7033b8)(until 04 September 2027)
