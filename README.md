@@ -7,6 +7,9 @@
 - [Burp Suite Certified Practitioner](https://portswigger.net/web-security/e/c/acd37ec7ba7033b8)(until 04 September 2027)
 - [Offensive Security Web Expert](#) -> I'm trying harder
 
+# 💪 Strong Points
+- I'm very healthy.
+
 <!--
 **wonda-tea-coffee/wonda-tea-coffee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
