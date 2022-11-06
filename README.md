@@ -3,6 +3,12 @@
 - [PentesterLab](https://pentesterlab.com/profile/wonda_tea_coffee)
 - [TryHackMe](https://tryhackme.com/p/peatpadded15)
 
+# 🔭 Interest
+## 🌍 Web Security
+- I am interested in defenses and bypassing of it.
+- I have reported several 0-day vulnerabilities as a hobby.
+  - https://gist.github.com/wonda-tea-coffee/11581b0fbb5378b030861665bb22d432
+
 # ✨ Certification
 - [Burp Suite Certified Practitioner](https://portswigger.net/web-security/e/c/acd37ec7ba7033b8)(until 04 September 2027)
 - [Offensive Security Web Expert](#) -> I'm trying harder
