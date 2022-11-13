@@ -11,7 +11,7 @@
 
 # ✨ Certification
 - [Burp Suite Certified Practitioner](https://portswigger.net/web-security/e/c/acd37ec7ba7033b8)(until 04 September 2027)
-- [Offensive Security Web Expert](https://www.credential.net/58db756e-f85b-4b65-9eb4-6f7f1b97c013#gs.i0ymhe)
+- [Offensive Security Web Expert(OSWE)](https://www.credential.net/58db756e-f85b-4b65-9eb4-6f7f1b97c013#gs.i0ymhe)
 
 # 💪 Strong Points
 - I'm very healthy.
