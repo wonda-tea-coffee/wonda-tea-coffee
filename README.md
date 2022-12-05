@@ -9,6 +9,12 @@
   - 脆弱性診断士、レッドチームといった脆弱性を見つけることを責務とした職業に就きたいです。
   - スペシャリストになりたいです。
 
+# こんなところで働きたい
+- 脆弱性を見つける仕事
+- 自分より技術力が上のエンジニアが複数人いる
+- フレックス
+- フルリモート
+
 # 資格
 - [Burp Suite Certified Practitioner](https://portswigger.net/web-security/e/c/acd37ec7ba7033b8)(until 04 September 2027)
 - [Offensive Security Web Expert(OSWE)](https://www.credential.net/58db756e-f85b-4b65-9eb4-6f7f1b97c013#gs.i0ymhe)
