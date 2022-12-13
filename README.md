@@ -14,7 +14,7 @@
   - スペシャリストを目指しています。
 
 # こんな仕事がしたい
-- 脆弱性を見つける仕事
+- インターネットの安全に貢献できる仕事
 - 自分より技術力が上のエンジニアが複数人いる
 - フレックス
 - フルリモート
@@ -24,6 +24,7 @@
 - [Offensive Security Web Expert(OSWE)](https://www.credential.net/58db756e-f85b-4b65-9eb4-6f7f1b97c013#gs.i0ymhe)
 
 # アウトプット
+- [AtCoder](https://atcoder.jp/users/wonda_tea_coffee)
 - [見つけた脆弱性のうち公開できるもの](https://gist.github.com/wonda-tea-coffee/11581b0fbb5378b030861665bb22d432)
 - [Railsの脆弱性を報告して報奨金をもらった話](https://engineer.crowdworks.jp/entry/2021/07/09/120154)
 - [Burp Suite Certified Practitionerになりました](https://tech.andpad.co.jp/entry/2022/09/15/100000)
