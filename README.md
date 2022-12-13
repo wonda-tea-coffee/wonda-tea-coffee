@@ -30,12 +30,10 @@
 - [Burp Suite Certified Practitionerになりました](https://tech.andpad.co.jp/entry/2022/09/15/100000)
 - [Offensive Security Web Expertになりました](https://tech.andpad.co.jp/entry/2022/11/18/100000)
 - [HackerOne](https://hackerone.com/wonda_tea_coffee?type=user)
-  - これまでいくつか報告しました。ruby, railsなど自分に身近なOSSが守備範囲です。
 - [PentesterLab](https://pentesterlab.com/profile/wonda_tea_coffee)
-  - キリの良いときにコンプリートしたいです。
 
 # 長所
-- すこぶる健康です。
+- 健康です。
 
 # 関心が無いこと
 - 受託開発
