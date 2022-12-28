@@ -36,6 +36,8 @@
 - [Offensive Security Web Expertになりました](https://tech.andpad.co.jp/entry/2022/11/18/100000)
 - [HackerOne](https://hackerone.com/wonda_tea_coffee?type=user)
 - [PentesterLab](https://pentesterlab.com/profile/wonda_tea_coffee)
+- [Qiita](https://qiita.com/wonda-tea-coffee)
+- [Zenn](https://zenn.dev/wonda_t_coffee)
 
 # 長所
 - 健康です。
