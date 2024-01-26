@@ -28,10 +28,9 @@
   - OPA/regoを用いたGitHubリポジトリの監査
   - Webアプリケーションの脆弱性の発見と対策
 - アプリケーション開発
-  - フロントエンド(Vue, Angular)
-  - バックエンド(Ruby, Java, PHP, Python, Go)
-  - インフラ(AWS, GCP)
-  - モバイルアプリ(ReactNative)
+  - 以下はある程度の実務経験がある言語、フレームワークです
+  - フロントエンド(Vue.js, AngularJS, CoffeeScript, TypeScript)
+  - バックエンド(Rails, Java, PHP)
 
 ## アウトプット
 
