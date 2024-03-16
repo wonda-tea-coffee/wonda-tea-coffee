@@ -34,7 +34,7 @@
 - アプリケーション開発
   - 以下はある程度の実務経験がある言語、フレームワークです
   - フロントエンド(Vue.js, AngularJS, CoffeeScript, TypeScript)
-  - バックエンド(Rails, Java, PHP)
+  - バックエンド(Ruby/Rails, Java/Struts, PHP)
 
 ## これまでお受けした仕事の例
 
@@ -70,6 +70,10 @@
 - [Burp Suite Certified Practitioner](https://portswigger.net/web-security/e/c/acd37ec7ba7033b8)
 - [OffSec Web Expert (OSWE)](https://www.credential.net/58db756e-f85b-4b65-9eb4-6f7f1b97c013#gs.2yh4s7)
 - [OffSec Certified Professional (OSCP)](https://www.credential.net/8ed647ad-ff5f-4e47-95d7-73a047f17de2)
+- [PAST 中級](https://past.atcoder.jp/)
+  - ～2025/3/2
+  - 受験番号はプライベートな手段でのみ公開しています
+  - [認定照会](https://past.atcoder.jp/verify_certificate)
 
 ## Contact
 
