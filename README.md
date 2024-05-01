@@ -36,10 +36,15 @@
   - フロントエンド(Vue.js, AngularJS, CoffeeScript, TypeScript)
   - バックエンド(Ruby/Rails, Java/Struts, PHP)
 
-## これまでお受けした仕事の例
+## これまでのお仕事の例
 
 - Railsアプリケーションの開発、バグ修正、リファクタリング
-- RubyやRailsを始めとしたプログラミング言語、ライブラリのバージョンアップ
+- プログラミング言語、ライブラリのバージョンアップ
+  - Railsバージョンアップ
+    - 5.2 -> 6.0
+    - 6.0 -> 6.1
+  - Rubyのバージョンアップ
+    - 3.0 -> 3.1
 - REST APIのGraphQL化
 
 ## アウトプット
