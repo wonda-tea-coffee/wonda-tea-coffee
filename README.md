@@ -67,6 +67,8 @@
 
 ### その他
 
+- [Qiita](https://qiita.com/wonda-tea-coffee)
+- [Zenn](https://zenn.dev/wonda_t_coffee) 
 - [仕事で書いた技術記事](https://github.com/wonda-tea-coffee/articles)
 
 ## 資格
