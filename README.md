@@ -37,6 +37,7 @@
 
 - Railsアプリケーションの機能開発、バグ修正、リファクタリング
 - Ruby/Railsをはじめとしたプログラミング言語、ライブラリのバージョンアップ
+- MySQLのバージョンアップ(5.7 -> 8.0)
 - REST APIのGraphQL化
 - AWS CodePipelineを使ったデプロイフロー構築
 - HTMLメールの作成
