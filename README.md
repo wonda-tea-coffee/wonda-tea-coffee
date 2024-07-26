@@ -20,18 +20,17 @@
 
 ## できること
 
-- セキュリティ
-  - セキュリティ要件の作成
-  - 簡単なペネトレーションテスト
-  - GitHub Advanced Securityの運用
-    - ex. Secret Scanning Alertの検知
-  - OPA/regoを用いたGitHubリポジトリの監査
-  - Webアプリケーションの脆弱性の発見と対策
+
 - アプリケーション開発
   - 以下はある程度の実務経験がある技術スタックです
-  - フロントエンド(Vue.js, AngularJS, CoffeeScript, TypeScript)
   - バックエンド(Ruby/Rails, Java/Struts, PHP)
   - インフラ(AWS)
+  - フロントエンド(Vue.js, AngularJS, CoffeeScript, TypeScript)
+- セキュリティ
+  - Webアプリケーションの脆弱性の発見と対策
+  - GitHub Advanced Securityの運用
+  - OPA/regoを用いたGitHubリポジトリの監査
+  - 簡単なペネトレーションテスト
 
 ## これまでのお仕事の例
 
