@@ -26,7 +26,7 @@
   - 以下はある程度の実務経験がある技術スタックです
   - バックエンド(Ruby/Rails, Java/Struts, PHP)
   - インフラ(AWS)
-  - フロントエンド(Vue.js, AngularJS, CoffeeScript, TypeScript)
+  - フロントエンド(Next.js Vue.js, AngularJS, CoffeeScript, TypeScript)
 - セキュリティ
   - Webアプリケーションの脆弱性の発見と対策
   - GitHub Advanced Securityの運用
