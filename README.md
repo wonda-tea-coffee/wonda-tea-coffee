@@ -24,7 +24,7 @@
 
 - アプリケーション開発
   - 以下はある程度の実務経験がある技術スタックです
-  - バックエンド(Ruby/Rails, Java/Struts, PHP)
+  - バックエンド(Ruby/Rails, Node.js, Java/Struts, PHP)
   - インフラ(AWS)
   - フロントエンド(Next.js Vue.js, AngularJS, CoffeeScript, TypeScript)
 - セキュリティ
