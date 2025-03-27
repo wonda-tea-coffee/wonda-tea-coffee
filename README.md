@@ -93,5 +93,3 @@
 - [YOUTRUST](https://youtrust.jp/users/21ebd227a1ccdf64eb1615466e5fd7a8)
 - [Facebook](https://www.facebook.com/p/%E7%9F%B3%E5%B7%9D%E5%8A%9B%E5%A4%AA-61554873706861/)
 - [X](https://x.com/mouse7377520942)
-
-上記やGitHubのプロフィールに記載のメールアドレスにご連絡いただければ一両日中にお返事できます。
